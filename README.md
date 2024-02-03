@@ -52,3 +52,20 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * [Mastering React Test-Driven Development - Second Edition](https://www.packtpub.com/product/mastering-react-test-driven-development-second-edition/9781803247120?utm_source=github&utm_medium=repository&utm_campaign=9781803247120)
 
 * [Mastering React Test-Driven Development](https://www.packtpub.com/product/mastering-react-test-driven-development/9781789133417?utm_source=github&utm_medium=repository&utm_campaign=9781789133417)
+
+1. Setting up for Testing
+2. Introducing the Red-Green-Refactor Workflow
+3. Loading Data into a Route
+4. Saving Form Data
+5. Validating Form Data
+6. Editing Form Data
+7. Tidying up Test Suites
+8. Creating Matchers to Simplify Tests
+9. Extracting Logic Out of the Framework
+10. Test-Driving API Endpoints
+11. Replacing Behavior with a Side-By-Side Implementation
+12. Using Component Mocks to Clarify Tests
+13. Adding Cucumber Tests
+14. Testing Authentication
+15. Test-Driving Svelte Stores
+16. Test-Driving Service Workers
